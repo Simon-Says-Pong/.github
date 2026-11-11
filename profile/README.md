@@ -17,7 +17,7 @@ an end-of-game screen shows the result.
 
 | Repo | What |
 |---|---|
-| [pong-fpga](https://github.com/Simon-Says-Pong/pong-fpga) | VHDL sources, testbenches, constraints and requirements |
+| [pong-fpga](https://github.com/Simon-Says-Pong/pong-fpga) | VHDL sources, testbenches, constraints and requirements (private until after the demo) |
 
 ## Timeline
 
